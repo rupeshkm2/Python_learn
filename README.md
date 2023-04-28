@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rupeshkm2
-- 👀 I’m interested in Javasceript/Oracle Sql PL/SQL
+- 👀 I’m interested in Javascript/Oracle Sql PL/SQL / Python
 - 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on Javascript / Oracle Sql PL/SQL
 - 📫 How to reach me ...
