@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rupeshkm2
 - 👀 I’m interested in Javascript/Oracle Sql PL/SQL / Python
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently learning Javascript / Python 
 - 💞️ I’m looking to collaborate on Javascript / Oracle Sql PL/SQL
 - 📫 How to reach me ...
 
